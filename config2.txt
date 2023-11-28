@@ -1,0 +1,8 @@
+Window 800 600
+Font fast99.ttf 18 255 255 255
+Circle CGreen 100 100 -3.03 3.02 0 255 0 50
+Circle CBlue 200 200 3.02 3.04 0 0 255 100
+Circle CPurple 300 300 -3.02 -3.01 255 0 255 75
+Rectangle RRed 200 200 3.1 3.15 255 0 0 50 25
+Rectangle RTeal 25 100 -3.02 -3.02 0 255 255 100 100
+Rectangle RGrey 300 250 -3.01 3.02 100 100 100 50 100
